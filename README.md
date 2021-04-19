@@ -38,7 +38,7 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-sma-source.vercel.app//api?username=Sma-source&show_icons=true&hide_border=true" />
 
-![visitors](https://visitor-badge.glitch.me/badge?Sma-source=Sma-source)
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Sma-source.Sma-source" alt="visitors"></p>
 
 [website]: https://www.smainrabhi.com/
 [linkedin]: https://www.linkedin.com/in/sma%C3%AFn-rabhi/
