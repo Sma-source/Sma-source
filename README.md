@@ -1,6 +1,7 @@
 ### Hello, I'm Sma ✌️
 
 [![Website](https://img.shields.io/website?color=%2384CC16&label=smainrabhi.com&style=for-the-badge&url=https%3A%2F%2Fwww.smainrabhi.com%2F)](https://www.smainrabhi.com/)
+[![twitter](https://img.shields.io/twitter/follow/smaDev1)](https://twitter.com/smaDev1)
 
 ## I'm a Cinephile, Art lover and Developer! ✋
 
@@ -11,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="smainrabhi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -42,3 +43,5 @@
 
 [website]: https://www.smainrabhi.com/
 [linkedin]: https://www.linkedin.com/in/sma%C3%AFn-rabhi/
+[blog]: https://smadev.fr/
+[twitter]: https://twitter.com/smaDev1
