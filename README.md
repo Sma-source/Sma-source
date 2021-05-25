@@ -1,7 +1,7 @@
 ### Hello, I'm Sma ✌️
 
 [![Website](https://img.shields.io/website?color=%2384CC16&label=smainrabhi.com&style=for-the-badge&url=https%3A%2F%2Fwww.smainrabhi.com%2F)](https://www.smainrabhi.com/)
-[![twitter](https://img.shields.io/twitter/follow/smaDev1)](https://twitter.com/smaDev1)
+[![twitter](https://img.shields.io/twitter/follow/smaDev1label=Follow)](https://twitter.com/smaDev1)
 
 ## I'm a Cinephile, Art lover and Developer! ✋
 
