@@ -8,7 +8,7 @@
 - 💬 Ask me about: Javascript,React, Jamstack, Mernstack
 - 🔭 I'm looking for new projects
 - 🧠 I’m currently learning Nodejs
-- 🚀 2025 Goals: Sharing my knowledge with others by creating cool content
+- 🚀 2026 Goals: Sharing my knowledge with others by creating cool content
 
 ### Connect with me:
 
